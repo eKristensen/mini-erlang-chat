@@ -35,6 +35,7 @@ to understand.
 ## Example
 
 ```erlang
+c(gen_server_plus).
 c(server).
 c(client).
 server:start().
